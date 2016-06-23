@@ -163,6 +163,10 @@ namespace Numerologia_Empresarial
                             numeroFinal += Convert.ToInt32(y.ToString());
                         }
                     }
+                    else if(numeroFinal==10)
+                    {
+                        numeroFinal = 1;
+                    }
                 }
             }
             else

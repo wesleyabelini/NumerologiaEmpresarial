@@ -104,7 +104,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Empresarial Numerologia";
+            this.Text = "Numerologia Empresarial";
             this.ResumeLayout(false);
             this.PerformLayout();
 
